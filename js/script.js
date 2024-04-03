@@ -16,7 +16,7 @@ function calculateTheVolume() {
   const height = parseFloat(document.getElementById('height').value)
 
   // process
-  const volume = (length*width*height)/3
+  const volume = (length * width * height)/3
 
 
   // output
