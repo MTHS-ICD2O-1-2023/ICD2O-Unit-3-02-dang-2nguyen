@@ -20,5 +20,5 @@ function calculateTheVolume() {
 
 
   // output
-  document.getElementById('volume').innerHTML = 'volume is : ' + volume.toFixed(2) + 'mm²'
+  document.getElementById('volume').innerHTML = 'volume is : ' + volume.toFixed(2)
 }
